@@ -1,0 +1,508 @@
+course_id,course_name,event_type,day,slot,n_timeslot,room,moved
+STÆ107G,Línuleg algebra,lecture,Monday,2,2,HB-1,False
+STÆ107G,Línuleg algebra,lecture,Thursday,0,2,HB-1,False
+STÆ104G,Stærðfræðigreining I,lecture,Tuesday,0,2,HB-1,False
+STÆ104G,Stærðfræðigreining I,lecture,Thursday,2,2,HB-1,False
+EÐL102G,Eðlisfræði 1 V,lecture,Friday,8,2,HB-1,True
+EÐL102G,Eðlisfræði 1 V,lecture,Monday,0,2,HB-1,False
+TÖL101G,Tölvunarfræði 1,lecture,Friday,4,2,HT-105,True
+TÖL101G,Tölvunarfræði 1,lecture,Friday,2,2,HT-102,False
+TÖL101G,Tölvunarfræði 1,lecture,Friday,2,2,HT-105,False
+STÆ302G,Stærðfræðigreining III,lecture,Tuesday,8,2,HB-2,True
+STÆ302G,Stærðfræðigreining III,lecture,Friday,0,2,HB-1,False
+STÆ108G,Stærðfræði N,lecture,Friday,6,2,HT-105,True
+STÆ108G,Stærðfræði N,lecture,Tuesday,10,2,HT-102,True
+TÖL105G,Tölvunarfræði 1a,lecture,Tuesday,2,3,Gróska (BANNAÐ að bóka nema í gegnum Grósku),False
+TÖL105G,Tölvunarfræði 1a,lecture,Tuesday,2,3,HB-1,False
+TÖL105G,Tölvunarfræði 1a,lecture,Tuesday,2,3,Gróska (BANNAÐ að bóka nema í gegnum Grósku),False
+STÆ302G,Stærðfræðigreining III,tutorial,Wednesday,6,2,HB-1,False
+STÆ302G,Stærðfræðigreining III,tutorial,Wednesday,6,2,HB-2,False
+EFN112G,Almenn efnafræði L,lecture,Friday,0,2,N-132,False
+EFN112G,Almenn efnafræði L,lecture,Tuesday,8,2,HB-1,False
+TÖL104G,Stærðfræðimynstur,lecture,Tuesday,8,2,S-261,False
+TÖL104G,Stærðfræðimynstur,lecture,Thursday,6,2,N-132,False
+IÐN502G,Hagverkfræði,lecture,Friday,2,3,HB-3,False
+IÐN502G,Hagverkfræði,lecture,Tuesday,10,2,HT-104,True
+IÐN502G,Hagverkfræði,lecture,Friday,2,3,HT-104,False
+IÐN502G,Hagverkfræði,lecture,Tuesday,10,2,O-101,True
+IÐN502G,Hagverkfræði,lecture,Friday,2,3,O-101,False
+EFN108G,Almenn efnafræði 1,lecture,Thursday,8,2,HT-104,True
+EFN108G,Almenn efnafræði 1,lecture,Friday,2,2,HT-104,False
+EFN108G,Almenn efnafræði 1,lecture,Thursday,8,2,O-201,True
+EFN108G,Almenn efnafræði 1,lecture,Friday,2,2,O-201,False
+EÐL102G,Eðlisfræði 1 V,tutorial,Wednesday,8,2,Ág-301,True
+EFN113G,Verkleg efnafræði L,lecture,Friday,8,1,S-114,True
+EFN110G,Verkleg efnafræði 1a,lecture,Thursday,5,1,S-114,True
+LÍF109G,Erfðafræði,lecture,Thursday,4,2,N-132,False
+LÍF109G,Erfðafræði,lecture,Monday,4,2,N-132,False
+EFN104G,Efnafræði 3,lecture,Tuesday,5,1,Lg-343,False
+EFN104G,Efnafræði 3,lecture,Thursday,5,1,Lg-343,False
+EFN104G,Efnafræði 3,lecture,Friday,5,1,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Tuesday,10,2,Lg-343,True
+EFN104G,Efnafræði 3,lecture,Monday,9,1,Lg-343,True
+EFN104G,Efnafræði 3,lecture,Friday,0,1,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Tuesday,4,2,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Tuesday,10,2,Lg-343,True
+EFN103G,Efnafræði 2,lecture,Tuesday,8,2,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Friday,6,4,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Thursday,6,4,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Tuesday,6,4,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Monday,6,4,Lg-343,False
+EFN103G,Efnafræði 2,lecture,Monday,6,2,Lg-343,False
+EFN104G,Efnafræði 3,lecture,Tuesday,8,1,Lg-343,False
+VON001F,"Lokaverkefni: verkefnastjórnun, ritfærni og kynning",lecture,Friday,8,3,V02-157,True
+IÐN503G,Verkefnastjórnun,lecture,Monday,4,3,S-114,True
+IÐN503G,Verkefnastjórnun,lecture,Monday,7,2,Ág-301,True
+RAF101G,Nám og störf í rafmagns- og tölvuverkfræði,lecture,Friday,0,2,V02-158,False
+RAF101G,Nám og störf í rafmagns- og tölvuverkfræði,lecture,Tuesday,2,3,V02-158,False
+IÐN303G,Tæknileg kerfi,lecture,Tuesday,6,2,N-132,False
+IÐN303G,Tæknileg kerfi,lecture,Monday,9,3,S-261,True
+TÖL301G,Formleg mál og reiknanleiki,lecture,Friday,8,3,N-132,True
+VÉL502G,Straumfræði,lecture,Friday,2,3,V02-158,False
+VÉL502G,Straumfræði,lecture,Friday,5,2,V02-158,True
+EFN309G,Lífræn efnafræði 1,tutorial,Wednesday,10,2,V02-261,True
+EFN309G,Lífræn efnafræði 1,lecture,Thursday,0,2,V02-158,False
+EVF101M,Framleiðsluferlar og tækni,lecture,Tuesday,2,3,N-132,False
+EFN309G,Lífræn efnafræði 1,lecture,Monday,2,2,V02-158,False
+TÖL309G,Tölvutækni og forritun,lecture,Tuesday,2,2,L-101,False
+TÖL309G,Tölvutækni og forritun,lecture,Thursday,0,2,N-132,False
+REI505M,Gervigreind,tutorial,Wednesday,2,2,V02-152,False
+TÖL107G,Vefforritun 1,lecture,Monday,8,3,V02-261,False
+STÆ101G,Stærðfræðigreining IA,tutorial,Wednesday,5,3,V02-152,True
+LÍF102G,Grasafræði,lecture,Monday,2,2,N-132,False
+LÍF102G,Grasafræði,lecture,Monday,9,2,N-131,True
+UMV102G,Starf og ábyrgð verkfræðinga,lecture,Thursday,6,2,V02-157,False
+UMV102G,Starf og ábyrgð verkfræðinga,lecture,Thursday,8,3,V02-157,True
+TÖL303G,Gagnasafnsfræði,lecture,Friday,2,3,Ág-306,False
+TÖL303G,Gagnasafnsfræði,lecture,Friday,2,3,N-132,False
+VÉL504G,Sjálfvirk stýrikerfi,lecture,Thursday,6,2,V02-158,False
+VÉL504G,Sjálfvirk stýrikerfi,lecture,Friday,8,3,V02-158,True
+REI505M,Gervigreind,lecture,Monday,9,3,V02-158,True
+LEF302G,Lífefnafræði 1,lecture,Thursday,2,2,V02-261,False
+LEF302G,Lífefnafræði 1,lecture,Tuesday,0,2,N-132,False
+IÐN103G,Tæknistjórnun,lecture,Tuesday,2,3,V02-261,False
+IÐN103G,Tæknistjórnun,lecture,Friday,0,2,V02-261,False
+EFN106G,Efnafræði I,tutorial,Wednesday,8,2,O-201,True
+EFN112G,Almenn efnafræði L,tutorial,Wednesday,6,2,O-201,True
+EÐL301G,Rafeindatækni fastra efna,lecture,Monday,2,3,V02-157,False
+LEF302G,Lífefnafræði 1,tutorial,Wednesday,4,2,N-131,False
+VÉL301G,Efnisfræði V,lecture,Thursday,0,2,V02-157,False
+TÖL304G,Forritunarmál,lecture,Monday,1,1,N-132,False
+TÖL304G,Forritunarmál,lecture,Friday,6,2,N-132,True
+VÉL301G,Efnisfræði V,lecture,Monday,2,3,"V02-262, heimast.",False
+VÉL303G,Varmafræði og efnahvörf,lecture,Thursday,4,2,V02-157,True
+VÉL303G,Varmafræði og efnahvörf,lecture,Monday,5,3,V02-157,True
+VÉL101G,Verkfræðileg hönnun,lecture,Monday,9,3,V02-156 Sérstofa VR-2,True
+VÉL101G,Verkfræðileg hönnun,lecture,Tuesday,6,2,V02-156 Sérstofa VR-2,False
+RAF301G,Merki og kerfi,lecture,Friday,2,3,V02-156 Sérstofa VR-2,False
+RAF301G,Merki og kerfi,lecture,Tuesday,10,2,V02-261,True
+STÆ312M,Hagnýtt línuleg tölfræðilíkön,lecture,Tuesday,6,2,N-131,True
+STÆ312M,Hagnýtt línuleg tölfræðilíkön,lecture,Monday,6,3,V02-158,True
+EÐL301G,Rafeindatækni fastra efna,tutorial,Wednesday,10,2,V02-261,True
+EÐL107G,Eðlisfræði 1 R,lecture,Tuesday,5,2,HB-1,True
+EÐL107G,Eðlisfræði 1 R,lecture,Monday,0,2,HB-1,False
+RAF302G,Rafræn mælitækni,lecture,Friday,5,3,V02-156 Sérstofa VR-2,False
+RAF305G,Merki og kerfi - verklegt,lecture,Thursday,2,3,V03-113,False
+EÐL108G,Verkleg eðlisfræði 1 R,lecture,Friday,6,2,V02-152,False
+TÖL104G,Stærðfræðimynstur,tutorial,Wednesday,8,2,N-130,False
+TÖL301G,Formleg mál og reiknanleiki,tutorial,Wednesday,4,2,V02-261,False
+TÖL309G,Tölvutækni og forritun,tutorial,Wednesday,10,2,V02-155,True
+VÉL512M,"Hönnun vatnsmiðla - Fráveita, vatnsveita og hitaveita",lecture,Friday,0,2,V02-155,False
+VÉL512M,"Hönnun vatnsmiðla - Fráveita, vatnsveita og hitaveita",lecture,Friday,5,2,V02-258,True
+TÖL104G,Stærðfræðimynstur,tutorial,Wednesday,6,2,V02-261,False
+TÖL309G,Tölvutækni og forritun,tutorial,Wednesday,6,2,O-201,False
+VÉL103M,Töluleg burðarþolsgreining,lecture,Thursday,8,3,"V02-262, heimast.",True
+TÖL301G,Formleg mál og reiknanleiki,tutorial,Wednesday,4,2,V02-261,False
+VÉL512M,"Hönnun vatnsmiðla - Fráveita, vatnsveita og hitaveita",lecture,Monday,0,2,V02-155,False
+TÖL104G,Stærðfræðimynstur,tutorial,Wednesday,10,2,Ág-304,True
+VÉL103M,Töluleg burðarþolsgreining,lecture,Thursday,2,2,V02-156 Sérstofa VR-2,False
+EÐL306G,Inngangur að skammtafræði,lecture,Tuesday,4,2,V02-258,False
+EÐL306G,Inngangur að skammtafræði,lecture,Monday,0,2,V02-157,False
+TÖV301G,Tölvuhögun,lecture,Tuesday,6,2,"V02-352, heimast.",False
+LÍF315G,Frumulíffræði,lecture,Friday,8,2,N-131,True
+LÍF315G,Frumulíffræði,lecture,Friday,2,2,N-131,False
+LÍF315G,Frumulíffræði,lecture,Friday,0,2,O-202,False
+LÍF315G,Frumulíffræði,lecture,Friday,0,2,O-202,False
+TÖV301G,Tölvuhögun,lecture,Thursday,5,3,"V02-352, heimast.",True
+HBV501G,Hugbúnaðarverkefni 1,lecture,Friday,6,2,HT-104,False
+TÖL506M,Inngangur að djúpum tauganetum,lecture,Thursday,2,3,"Gr-321, Ada sérstofa",False
+LÍF128F,Skipulag og aðferðir í rannsóknum,lecture,Monday,9,3,V02-158,True
+IÐN101M,Gæðastjórnun,lecture,Friday,5,3,"V02-262, heimast.",True
+EVF302G,Eðlisefnafræði fyrir verkfræðinga,lecture,Thursday,6,2,V02-147,True
+IÐN101M,Gæðastjórnun,lecture,Monday,0,2,"V02-262, heimast.",False
+EVF302G,Eðlisefnafræði fyrir verkfræðinga,lecture,Thursday,2,3,V02-258,False
+STÆ520M,Netafræði,lecture,Friday,6,2,L-103,True
+TÖL303G,Gagnasafnsfræði,tutorial,Wednesday,4,2,V02-156 Sérstofa VR-2,False
+EFN106G,Efnafræði I,tutorial,Wednesday,10,2,Ág-301,True
+EÐL306G,Inngangur að skammtafræði,tutorial,Wednesday,8,2,V02-155,True
+UAU102F,Inngangur að umhverfis- og auðlindafræði,tutorial,Wednesday,10,2,V02-258,True
+EFN112G,Almenn efnafræði L,tutorial,Wednesday,8,2,Ág-301,True
+TÖL303G,Gagnasafnsfræði,tutorial,Wednesday,8,2,V02-147,True
+EFN109G,Verkleg efnafræði 1,lecture,Friday,4,1,S-114,True
+STÆ520M,Netafræði,lecture,Tuesday,10,2,V02-152,True
+UAU101F,"Sjálfbær þróun, stefnumótun umhverfismála og stjórnun náttúruauðlinda",tutorial,Wednesday,6,2,V02-258,True
+EFN301G,Almenn efnafræði V,tutorial,Wednesday,10,2,Ág-301,True
+TÖL304G,Forritunarmál,tutorial,Wednesday,10,2,V02-155,True
+LAN104G,Mannvistarlandfræði,tutorial,Wednesday,6,2,N-130,False
+EÐL108G,Verkleg eðlisfræði 1 R,lab,Friday,6,5,V01-112,False
+EÐL108G,Verkleg eðlisfræði 1 R,lab,Friday,6,5,V01-110,False
+LÍF319G,Vefjafræði,lecture,Friday,4,2,O-202,False
+LÍF319G,Vefjafræði,lecture,Friday,4,2,N-131,False
+RAF301G,Merki og kerfi,tutorial,Wednesday,2,2,V02-261,False
+STÆ303G,Algebra,lecture,Tuesday,10,2,S-285,True
+STÆ303G,Algebra,lecture,Monday,4,2,V02-147,False
+BYG302G,Efnisfræði,lecture,Thursday,2,3,V02-147,False
+BYG302G,Efnisfræði,lecture,Tuesday,0,2,V02-155,False
+TÖL301G,Formleg mál og reiknanleiki,tutorial,Wednesday,8,2,Naustið,True
+BYG301G,Samfelldaraflfræði 1,lecture,Monday,2,3,V02-258,False
+BYG301G,Samfelldaraflfræði 1,lecture,Tuesday,10,2,V02-258,True
+TÖL301G,Formleg mál og reiknanleiki,tutorial,Wednesday,8,2,Naustið,True
+EFN311G,Eðlisefnafræði A,tutorial,Wednesday,8,2,Naustið,True
+JAR101G,Innri öfl jarðar,lecture,Friday,4,2,N-131,True
+EÐL101G,Eðlisfræði B,lecture,Monday,8,2,V02-258,False
+STÆ303G,Algebra,tutorial,Wednesday,10,3,V02-158,True
+EÐL302G,Aflfræði,tutorial,Wednesday,10,2,N-130,True
+EÐL302G,Aflfræði,lecture,Thursday,2,2,N-130,False
+EÐL302G,Aflfræði,lecture,Friday,8,2,Naustið,True
+EÐL101G,Eðlisfræði B,lecture,Friday,0,2,V02-156 Sérstofa VR-2,False
+JAR101G,Innri öfl jarðar,lecture,Monday,6,2,N-130,False
+EÐL101G,Eðlisfræði B,lecture,Tuesday,8,2,V02-158,False
+STÆ520M,Netafræði,tutorial,Wednesday,10,3,V02-147,True
+TÖL029M,Inngangur að gagnaöryggi,lecture,Tuesday,8,4,N-131,False
+LÍF533M,Örverufræði II,lecture,Thursday,4,2,N-129,False
+LÍF533M,Örverufræði II,lecture,Tuesday,0,2,N-129,False
+LÍF533M,Örverufræði II,lecture,Thursday,4,2,N-129,False
+LÍF533M,Örverufræði II,lecture,Thursday,4,2,N-129,False
+LÍF533M,Örverufræði II,lecture,Tuesday,0,2,N-129,False
+EVF502G,Efnis- og orkujafnvægi II,lecture,Thursday,8,3,Naustið,True
+LÍF311G,Vistfræði,lecture,Monday,0,2,N-131,False
+EVF301G,Hagnýt varmaefnafræði,lecture,Monday,2,3,V02-155,False
+EVF301G,Hagnýt varmaefnafræði,lecture,Thursday,0,2,V02-152,False
+EFN301G,Almenn efnafræði V,lecture,Monday,8,2,HB-1,True
+LÍF311G,Vistfræði,lecture,Thursday,6,3,N-131,False
+EFN301G,Almenn efnafræði V,lecture,Friday,6,2,V02-155,False
+LAN104G,Mannvistarlandfræði,lecture,Monday,2,2,N-130,False
+LAN104G,Mannvistarlandfræði,lecture,Monday,0,2,N-130,True
+TÖV302G,Tölvuhögun - verklegt,lab,Thursday,8,4,V03-113,False
+STÆ101G,Stærðfræðigreining IA,lecture,Thursday,2,2,V02-155,False
+STÆ101G,Stærðfræðigreining IA,lecture,Tuesday,0,2,V02-156 Sérstofa VR-2,False
+RAF302G,Rafræn mælitækni,lab,Monday,9,4,V03-113,True
+UMV502G,Straumfræði 1,lab,Friday,6,4,V03-114,False
+LAN104G,Mannvistarlandfræði,lecture,Monday,0,2,N-130,True
+LÍF523G,Aðferðir í sameindalíffræði,lab,Tuesday,6,7,"N-350, rannsóknast.",False
+LÍF541G,Plöntulífeðlisfræði,lecture,Monday,2,3,N-128,False
+LÍF541G,Plöntulífeðlisfræði,lecture,Thursday,0,2,N-130,False
+RAF502G,Sjálfvirk stýrikerfi,lecture,Tuesday,5,3,V02-158,False
+JAR312G,Storkuberg,lab,Friday,6,3,N-161 - verkleg kennslust.,False
+RAF502G,Sjálfvirk stýrikerfi,lecture,Thursday,6,2,V02-158,False
+BYG501G,Jarðtækni og grundun 1,lecture,Thursday,0,2,V02-354 heimastofa,False
+BYG501G,Jarðtækni og grundun 1,lecture,Monday,9,3,V02-354 heimastofa,True
+IÐN508M,Aðgerðagreining 2,lecture,Thursday,0,2,"V02-148, sérstofa VR-2",True
+IÐN508M,Aðgerðagreining 2,lecture,Thursday,8,3,"V02-148, sérstofa VR-2",True
+TÖL103M,Forritun snjalltækja,lecture,Thursday,5,3,N-131,True
+LAN105G,Vinnulag í landfræði og ferðamálafræði,tutorial,Wednesday,8,2,N-130,True
+LAN105G,Vinnulag í landfræði og ferðamálafræði,lecture,Friday,2,2,N-129,False
+MAS102M,R forritun,lecture,Thursday,8,2,V02-152,True
+MAS102M,R forritun,lecture,Thursday,6,2,Stapi 210,False
+UMV502G,Straumfræði 1,lecture,Friday,0,2,V02-354 heimastofa,False
+UMV502G,Straumfræði 1,lecture,Tuesday,2,3,V02-354 heimastofa,False
+FER101G,Inngangur að ferðamálafræði,tutorial,Wednesday,10,2,N-129,True
+LÍF108G,Lífheimurinn,lecture,Tuesday,2,3,N-131,False
+LÍF108G,Lífheimurinn,lecture,Friday,0,2,N-131,False
+BYG115F,Steinsteypuvirki 2,lecture,Thursday,6,3,V02-138,False
+BYG101M,Álag og öryggi burðarvirkja,lecture,Tuesday,0,2,V02-354 heimastofa,False
+BYG101M,Álag og öryggi burðarvirkja,lecture,Thursday,2,3,V02-354 heimastofa,False
+IÐN509M,Vöruþróun og hönnun framleiðslukerfa,lecture,Thursday,5,3,"V02-262, heimast.",True
+IÐN509M,Vöruþróun og hönnun framleiðslukerfa,lecture,Monday,2,2,O-106,False
+RAF507M,Læknisfræðileg myndgreiningarkerfi,lecture,Monday,0,2,"V02-352, heimast.",False
+RAF507M,Læknisfræðileg myndgreiningarkerfi,lecture,Thursday,2,3,"V02-352, heimast.",False
+BYG115F,Steinsteypuvirki 2,lecture,Tuesday,6,2,V02-138,False
+BYG115F,Steinsteypuvirki 2,lecture,Friday,2,3,Naustið,False
+BYG503G,Samgönguverkfræði,lecture,Tuesday,6,2,V02-354 heimastofa,False
+LÍF130F,"Aðferðir fyrir fiski, - sjávar- og vatnalíffræði rannsóknir",lecture,Thursday,2,6,S-267,False
+VÉL502G,Straumfræði,lab,Tuesday,10,5,V03-114,True
+VÉL502G,Straumfræði,lab,Thursday,8,5,V03-114,True
+LAN102G,Kortagerð og kortahönnun,tutorial,Wednesday,2,3,N-166 - Tölvuver,True
+LÍF313G,Dýrafræði - hryggdýr,lab,Tuesday,6,4,"N-196, verkleg kennslust.",False
+LÍF313G,Dýrafræði - hryggdýr,lab,Tuesday,10,4,"N-196, verkleg kennslust.",True
+LÍF532M,Fiskavistfræði,lab,Wednesday,10,6,"N-196, verkleg kennslust.",True
+LÍF541G,Plöntulífeðlisfræði,lab,Monday,6,4,N-161 - verkleg kennslust.,False
+UMV302G,Umhverfisverkfræði G,lecture,Tuesday,2,3,V02-155,False
+UMV302G,Umhverfisverkfræði G,lecture,Tuesday,6,2,V02-152,True
+BYG503G,Samgönguverkfræði,lecture,Thursday,6,3,V02-354 heimastofa,False
+LÍF130F,"Aðferðir fyrir fiski, - sjávar- og vatnalíffræði rannsóknir",lecture,Thursday,0,10,S-267,False
+LÍF130F,"Aðferðir fyrir fiski, - sjávar- og vatnalíffræði rannsóknir",lecture,Monday,2,2,S-054,False
+LÍF130F,"Aðferðir fyrir fiski, - sjávar- og vatnalíffræði rannsóknir",lecture,Thursday,2,3,S-054,False
+LÍF130F,"Aðferðir fyrir fiski, - sjávar- og vatnalíffræði rannsóknir",lecture,Thursday,0,10,N-121,False
+EÐL107G,Eðlisfræði 1 R,tutorial,Wednesday,8,2,V02-156 Sérstofa VR-2,False
+TÖL304G,Forritunarmál,tutorial,Wednesday,0,2,"Gr-321, Ada sérstofa",True
+TÖL304G,Forritunarmál,tutorial,Wednesday,2,2,"Gr-321, Ada sérstofa",True
+VÉL502G,Straumfræði,lab,Wednesday,0,5,V03-114,True
+TÖL605M,Grunnatriði siðferðislegrar hökkunar,lecture,Friday,0,2,"Gr-321, Ada sérstofa",True
+EFN307G,Varmafræði og inngangur að safneðlisfræði,tutorial,Wednesday,0,2,Ág-309,True
+EFN311G,Eðlisefnafræði A,lecture,Monday,0,2,V02-156 Sérstofa VR-2,True
+EFN307G,Varmafræði og inngangur að safneðlisfræði,lecture,Thursday,4,2,V02-156 Sérstofa VR-2,True
+EFN307G,Varmafræði og inngangur að safneðlisfræði,lecture,Monday,9,2,V02-152,False
+EFN311G,Eðlisefnafræði A,lecture,Tuesday,4,2,Naustið,False
+IÐN510M,Vörustjórnun og umhverfismál,lecture,Thursday,2,3,"V02-262, heimast.",False
+BYG116F,Jarðtækni og grundun 2,lecture,Monday,2,3,V02-354 heimastofa,True
+UAU102F,Inngangur að umhverfis- og auðlindafræði,lecture,Tuesday,6,2,S-054,True
+EFN315G,Varmafræði og inngangur að safneðlisfræði V,lecture,Monday,0,2,V02-156 Sérstofa VR-2,True
+UAU102F,Inngangur að umhverfis- og auðlindafræði,lecture,Monday,6,2,V02-155,False
+STÆ310M,Kennileg línuleg tölfræðilíkön,lecture,Tuesday,0,2,Naustið,False
+STÆ310M,Kennileg línuleg tölfræðilíkön,tutorial,Wednesday,0,3,V02-138,True
+UAU116F,Vísindamiðlun og ritgerðaskrif,lecture,Tuesday,8,2,V02-138,False
+EFN315G,Varmafræði og inngangur að safneðlisfræði V,lecture,Monday,9,2,V02-152,False
+IÐN510M,Vörustjórnun og umhverfismál,lecture,Tuesday,0,2,"V02-262, heimast.",False
+EFN315G,Varmafræði og inngangur að safneðlisfræði V,tutorial,Wednesday,8,2,Ág-309,True
+UAU116F,Vísindamiðlun og ritgerðaskrif,lecture,Tuesday,8,3,V02-138,False
+FER507M,Skipulag og stefnumótun í ferðamennsku,lecture,Thursday,0,2,V02-147,False
+UAU116F,Vísindamiðlun og ritgerðaskrif,lecture,Friday,8,3,V02-147,False
+UAU116F,Vísindamiðlun og ritgerðaskrif,lecture,Friday,8,2,V02-147,False
+BYG501G,Jarðtækni og grundun 1,lab,Wednesday,10,4,V02-354 heimastofa,True
+FER507M,Skipulag og stefnumótun í ferðamennsku,lecture,Monday,6,3,V02-147,False
+BYG501G,Jarðtækni og grundun 1,lab,Wednesday,6,4,V02-354 heimastofa,False
+BYG116F,Jarðtækni og grundun 2,lecture,Tuesday,10,2,V02-138,True
+JAR508M,Jarðhiti,lecture,Thursday,8,3,N-132,False
+JAR508M,Jarðhiti,lecture,Thursday,8,3,Ág-303,False
+JAR508M,Jarðhiti,lecture,Friday,0,2,N-130,True
+LAN515M,Sjónarhorn landfræðinnar,lecture,Thursday,2,2,N-129,False
+JAR508M,Jarðhiti,lecture,Friday,2,2,N-130,False
+LAN515M,Sjónarhorn landfræðinnar,lecture,Friday,2,2,N-128,False
+RAF503G,Merkjafræði,lecture,Monday,2,3,"V02-352, heimast.",False
+MAS103M,R fyrir byrjendur,lecture,Friday,6,3,Ág-311,False
+RAF503G,Merkjafræði,lecture,Tuesday,10,2,"V02-352, heimast.",True
+LAN107G,Náttúra Íslands,tutorial,Wednesday,4,2,O-106,True
+LÍF523G,Aðferðir í sameindalíffræði,lecture,Friday,4,2,N-129,True
+IÐN301G,Greining ferla og kerfa,lecture,Thursday,2,3,Naustið,False
+JAR514M,Eldfjallafræði,lecture,Monday,7,2,V02-152,True
+RAF504G,Rafeindatækni 2,lecture,Monday,6,2,"V02-352, heimast.",False
+LAN513M,Náttúruvá: Atburðir og eðli þeirra,lecture,Tuesday,2,2,N-130,True
+STÆ108G,Stærðfræði N,tutorial,Wednesday,2,2,HT-102,True
+TÖL506M,Inngangur að djúpum tauganetum,tutorial,Wednesday,8,2,"Gr-321, Ada sérstofa",True
+LÍF313G,Dýrafræði - hryggdýr,lecture,Friday,6,2,N-130,False
+LAN513M,Náttúruvá: Atburðir og eðli þeirra,lecture,Tuesday,10,3,V02-155,True
+REI504M,Skýjaforritun og stórgögn,lecture,Thursday,8,3,"Gr-321, Ada sérstofa",True
+REI504M,Skýjaforritun og stórgögn,lecture,Tuesday,6,2,"Gr-321, Ada sérstofa",False
+LÍF313G,Dýrafræði - hryggdýr,lecture,Friday,6,2,"N-196, verkleg kennslust.",False
+RAF504G,Rafeindatækni 2,lecture,Friday,8,3,"V02-352, heimast.",True
+LÍF313G,Dýrafræði - hryggdýr,lecture,Tuesday,2,3,N-129,False
+EÐL520M,Eðlisfræði þéttefnis 1,lecture,Monday,6,3,V02-158,False
+LAN107G,Náttúra Íslands,tutorial,Wednesday,4,2,Annað,True
+EÐL520M,Eðlisfræði þéttefnis 1,lecture,Tuesday,8,2,V02-157,True
+JAR514M,Eldfjallafræði,lecture,Friday,4,2,V02-157,False
+JAR514M,Eldfjallafræði,lecture,Monday,5,2,N-131,True
+IÐN301G,Greining ferla og kerfa,lecture,Tuesday,0,2,V02-147,False
+EFN304G,Ólífræn efnafræði 1,lecture,Friday,0,2,"V02-148, sérstofa VR-2",True
+UAU101F,"Sjálfbær þróun, stefnumótun umhverfismála og stjórnun náttúruauðlinda",lecture,Tuesday,4,2,V02-156 Sérstofa VR-2,False
+LÍF311G,Vistfræði,lab,Wednesday,10,4,"N-196, verkleg kennslust.",True
+FER101G,Inngangur að ferðamálafræði,lecture,Monday,5,3,N-128,False
+LÍF532M,Fiskavistfræði,lecture,Friday,2,2,N-129,True
+UAU101F,"Sjálfbær þróun, stefnumótun umhverfismála og stjórnun náttúruauðlinda",lecture,Thursday,4,2,V02-157,False
+LÍF532M,Fiskavistfræði,lecture,Friday,0,2,N-128,False
+EFN304G,Ólífræn efnafræði 1,lecture,Monday,5,3,V02-147,True
+EFN304G,Ólífræn efnafræði 1,lecture,Monday,6,3,V02-138,False
+LÍF539M,Vatnalíffræði,lecture,Monday,0,2,N-121,False
+LAN101G,Náttúrulandfræði,lecture,Tuesday,2,3,N-121,False
+EFN313G,Verkleg lífræn efnafræði 1a,lab,Tuesday,6,6,V01-211,False
+LAN101G,Náttúrulandfræði,lecture,Tuesday,6,6,N-157 - Verkleg sérstofa,False
+HBV101G,Inngangur að hugbúnaðarverkfræði,lecture,Friday,8,2,"Gr-321, Ada sérstofa",True
+IÐN302G,Upplýsingaverkfræði,lecture,Thursday,0,2,"V02-148, sérstofa VR-2",False
+IÐN302G,Upplýsingaverkfræði,lecture,Thursday,8,3,"V02-148, sérstofa VR-2",True
+LAN101G,Náttúrulandfræði,lecture,Tuesday,6,2,N-121,False
+LÍF539M,Vatnalíffræði,lecture,Tuesday,5,2,N-128,False
+LEF501M,Lífefnafræði 3,lecture,Monday,4,2,N-129,False
+BYG301G,Samfelldaraflfræði 1,tutorial,Wednesday,4,2,V02-258,True
+UMV122F,Sjálfbær borg,lecture,Thursday,2,5,O-202,False
+LÍF539M,Vatnalíffræði,lab,Thursday,8,3,"N-196, verkleg kennslust.",True
+UMV122F,Sjálfbær borg,lecture,Thursday,2,3,V02-158,False
+UMV114F,Náttúruhamfarir,lecture,Monday,6,3,Naustið,False
+LÍF505M,Vistfræði B,lecture,Monday,0,2,N-131,False
+LÍF505M,Vistfræði B,lecture,Thursday,6,3,N-131,False
+EÐL509M,Skammtafræði 1,lecture,Monday,0,2,V02-258,False
+LÍF539M,Vatnalíffræði,lab,Thursday,6,3,N-161 - verkleg kennslust.,False
+UMV114F,Náttúruhamfarir,lecture,Thursday,0,2,V02-155,False
+JEÐ502M,Grunnvatnsfræði,lecture,Monday,9,3,N-121,True
+JAR315G,Tektóník,tutorial,Wednesday,9,2,N-166 - Tölvuver,True
+JEÐ502M,Grunnvatnsfræði,lecture,Tuesday,6,4,N-129,False
+JAR315G,Tektóník,tutorial,Wednesday,6,2,N-130,True
+EÐL101G,Eðlisfræði B,lab,Friday,8,5,V01-110,True
+FER506M,Menningartengd ferðaþjónusta,lecture,Thursday,2,2,V02-157,False
+LAN107G,Náttúra Íslands,lecture,Thursday,0,2,N-128,False
+TÖL502M,Samskipti manns og tölvu,lecture,Thursday,2,3,V02-147,True
+LAN107G,Náttúra Íslands,lecture,Tuesday,2,2,N-128,False
+HBV101G,Inngangur að hugbúnaðarverkfræði,tutorial,Wednesday,2,2,"Gr-321, Ada sérstofa",False
+RAF501G,Fjarskiptaverkfræði,lecture,Monday,9,3,"V02-352, heimast.",True
+RAF501G,Fjarskiptaverkfræði,lecture,Thursday,0,2,"V02-352, heimast.",False
+FER506M,Menningartengd ferðaþjónusta,lecture,Monday,2,3,L-205,False
+UAU109F,Stjórnun friðlýstra svæða- Vettvangsnámskeið á Suðausturlandi,lecture,Tuesday,8,2,N-130,False
+UAU109F,Stjórnun friðlýstra svæða- Vettvangsnámskeið á Suðausturlandi,lecture,Monday,2,3,V02-147,True
+LAN523G,Rannsóknaráætlun fyrir BS verkefni,lecture,Tuesday,6,2,O-106,False
+LAN523G,Rannsóknaráætlun fyrir BS verkefni,lecture,Tuesday,6,2,O-106,False
+JEÐ507M,Jarðeðlisfræðileg könnun B,tutorial,Wednesday,5,1,"V02-148, sérstofa VR-2",False
+LAN523G,Rannsóknaráætlun fyrir BS verkefni,lecture,Tuesday,6,2,O-106,False
+EÐL506G,Kjarna- og öreindafræði,lecture,Thursday,6,2,V02-138,True
+JEÐ503M,Aflfræði og varmaflutningur  í samfelldum efnum,lecture,Thursday,2,2,N-128,False
+JEÐ503M,Aflfræði og varmaflutningur  í samfelldum efnum,lecture,Friday,7,2,N-129,False
+JEÐ503M,Aflfræði og varmaflutningur  í samfelldum efnum,lecture,Monday,2,2,V02-258,True
+EÐL506G,Kjarna- og öreindafræði,lecture,Tuesday,0,3,V02-147,True
+STÆ304G,Stærðfræðigreining IIIA,tutorial,Wednesday,5,3,Tg-227 Heimastofa,True
+STÆ301G,Tvinnfallagreining I,tutorial,Wednesday,2,3,Tg-227 Heimastofa,True
+EÐL509M,Skammtafræði 1,tutorial,Wednesday,2,3,V02-138,True
+UAU115F,Inngangsnámskeið fyrir UAU-nema,lecture,Friday,0,5,V02-152,False
+UAU115F,Inngangsnámskeið fyrir UAU-nema,lecture,Thursday,0,10,V02-152,False
+TÖL503M,Dreifð kerfi,lecture,Friday,4,2,"Gr-321, Ada sérstofa",True
+EÐL509M,Skammtafræði 1,tutorial,Wednesday,8,2,Naustið,True
+TÖL503M,Dreifð kerfi,lecture,Friday,2,2,"Gr-321, Ada sérstofa",False
+IÐN121F,Nýsköpun og sprotaþróun,lecture,Monday,8,4,O-205,False
+IÐN121F,Nýsköpun og sprotaþróun,lecture,Thursday,8,4,O-205,True
+UAU128F,Hafið og sjálfbærni,lab,Friday,6,3,Annað,False
+HBV301G,Verkfræði kröfugreiningar,lecture,Thursday,6,3,Naustið,False
+RAF101G,Nám og störf í rafmagns- og tölvuverkfræði,lab,Monday,9,3,V03-113,True
+LÍF314G,Verklegar æfingar í lífefnafræði fyrir líffræðinema,lab,Wednesday,6,4,"N-250, rannsóknast.",False
+STÆ301G,Tvinnfallagreining I,lecture,Monday,6,2,Tg-227 Heimastofa,False
+UAU107M,Hnattrænar loftslagsbreytingar,lecture,Friday,2,2,V02-157,False
+TÖL605M,Grunnatriði siðferðislegrar hökkunar,tutorial,Wednesday,6,2,"Gr-321, Ada sérstofa",True
+STÆ301G,Tvinnfallagreining I,lecture,Friday,2,2,Tg-227 Heimastofa,True
+UMV123F,Hringrásarhagkerfið í byggingariðnaði,lecture,Thursday,8,3,Tg-227 Heimastofa,False
+UAU107M,Hnattrænar loftslagsbreytingar,lecture,Friday,0,2,V02-156 Sérstofa VR-2,True
+HBV501G,Hugbúnaðarverkefni 1,tutorial,Wednesday,0,2,"Gr-326, Charles",True
+LEF509M,Hagnýtt lífefnafræði,lecture,Thursday,2,2,V02-152,False
+LÍF534M,Örverur og líftækni,lecture,Tuesday,0,2,N-129,False
+STÆ304G,Stærðfræðigreining IIIA,lecture,Tuesday,2,2,V02-138,False
+LEF509M,Hagnýtt lífefnafræði,lecture,Thursday,2,2,S-267,False
+HBV501G,Hugbúnaðarverkefni 1,tutorial,Wednesday,10,2,"Gr-310, Alan",True
+LAN512M,Borgir og borgarumhverfi,lecture,Tuesday,4,2,O-205,False
+LAN512M,Borgir og borgarumhverfi,lecture,Thursday,4,2,O-205,False
+LÍF534M,Örverur og líftækni,lecture,Tuesday,0,2,N-129,False
+LEF509M,Hagnýtt lífefnafræði,lecture,Tuesday,2,3,V02-152,False
+LEF509M,Hagnýtt lífefnafræði,lecture,Tuesday,2,3,S-281,False
+EFN515M,Lífræn efnafræði 3,lecture,Friday,2,3,V02-155,False
+EFN515M,Lífræn efnafræði 3,lecture,Tuesday,6,2,V02-155,True
+LÍF535M,Umhverfisörverufræði,lecture,Friday,4,2,N-130,False
+JAR315G,Tektóník,lecture,Tuesday,2,2,N-130,False
+JAR315G,Tektóník,lecture,Thursday,0,2,N-121,False
+STÆ304G,Stærðfræðigreining IIIA,lecture,Tuesday,6,2,Tg-227 Heimastofa,False
+LÍF534M,Örverur og líftækni,lecture,Friday,4,2,N-130,False
+LÍF534M,Örverur og líftækni,lecture,Thursday,6,2,N-121,True
+LÍF534M,Örverur og líftækni,lecture,Thursday,4,2,N-129,False
+JAR513G,Jarðfræðikortagerð,lecture,Monday,4,1,Annað,False
+UAU109M,Umhverfisstjórnun fyrirtækja,lecture,Tuesday,0,2,N-130,False
+UAU109M,Umhverfisstjórnun fyrirtækja,lecture,Thursday,0,2,V02-156 Sérstofa VR-2,False
+LÍF114F,Rannsóknir í sameindalíffræði og lífefnafræði,lecture,Monday,6,3,N-129,False
+JAR308G,Setlagafræði og setberg,lab,Wednesday,2,3,N-161 - verkleg kennslust.,False
+JEÐ506M,Jarðeðlisfræðileg könnun A,tutorial,Wednesday,4,1,"V02-148, sérstofa VR-2",False
+JEÐ116F,Forðafræði jarðhitakerfa,lecture,Tuesday,2,4,"V02-148, sérstofa VR-2",True
+JEÐ116F,Forðafræði jarðhitakerfa,lecture,Monday,6,4,N-121,False
+UAU129F,Sjálfbærni og fjármál,lecture,Monday,2,3,N-121,True
+EFN516M,Verkleg lífræn efnafræði 3,lecture,Thursday,4,1,Tg-227 Heimastofa,True
+JAR308G,Setlagafræði og setberg,lab,Monday,2,3,N-161 - verkleg kennslust.,False
+JEÐ116F,Forðafræði jarðhitakerfa,lecture,Thursday,2,4,O-202,False
+JAR312G,Storkuberg,lecture,Tuesday,0,2,N-161 - verkleg kennslust.,False
+JAR312G,Storkuberg,lecture,Tuesday,6,2,N-161 - verkleg kennslust.,True
+JEÐ116F,Forðafræði jarðhitakerfa,lecture,Tuesday,5,4,N-129,False
+STÆ519M,Diffurrúmfræði,lecture,Monday,2,2,V02-156 Sérstofa VR-2,False
+FER108M,Kenningar í ferðamálafræði,lecture,Friday,2,2,Tg-227 Heimastofa,False
+EFN514M,Verkleg ólífræn efnafræði 3,lecture,Tuesday,5,1,Tg-227 Heimastofa,True
+JAR308G,Setlagafræði og setberg,lecture,Monday,0,2,N-161 - verkleg kennslust.,True
+JAR308G,Setlagafræði og setberg,lecture,Thursday,2,2,N-161 - verkleg kennslust.,True
+LÍF540G,Erfðafræði B,lecture,Tuesday,0,2,N-132,True
+LÍF540G,Erfðafræði B,lecture,Thursday,0,2,N-132,True
+STÆ519M,Diffurrúmfræði,lecture,Monday,4,2,V02-138,False
+STÆ511M,Töluleg línuleg algebra,lecture,Thursday,5,3,Tg-227 Heimastofa,False
+EFN513M,Ólífræn efnafræði 3,lecture,Thursday,0,2,V02-258,True
+EFN513M,Ólífræn efnafræði 3,lecture,Monday,2,3,N-120 - Sérstofa VoN,False
+FER108M,Kenningar í ferðamálafræði,lecture,Tuesday,2,2,Tg-227 Heimastofa,False
+STÆ511M,Töluleg línuleg algebra,lecture,Tuesday,2,2,V02-156 Sérstofa VR-2,False
+LAN020F,"Náttúruvá á Íslandi: Tegundir, útbreiðsla og orsakir",lab,Thursday,6,3,N-121,False
+EFN104G,Efnafræði 3,lab,Friday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Thursday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Monday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Wednesday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Tuesday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Tuesday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Friday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Friday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Wednesday,0,5,V01-213,False
+EFN516M,Verkleg lífræn efnafræði 3,lab,Wednesday,6,5,V01-219,False
+JEÐ507M,Jarðeðlisfræðileg könnun B,lecture,Tuesday,0,2,V02-157,False
+EFN104G,Efnafræði 3,lab,Thursday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Thursday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Wednesday,0,5,V01-213,False
+EFN104G,Efnafræði 3,lab,Wednesday,10,5,V01-213,True
+EFN104G,Efnafræði 3,lab,Monday,0,5,V01-213,False
+JEÐ507M,Jarðeðlisfræðileg könnun B,lecture,Friday,6,1,N-129,False
+EFN104G,Efnafræði 3,lab,Monday,0,5,V01-213,False
+TÖV501M,Hönnun tölva,lecture,Friday,0,2,"V02-352, heimast.",False
+UAU111F,Endurnýjanleg orka: inngangur,lecture,Monday,9,2,N-128,True
+UAU111F,Endurnýjanleg orka: inngangur,lecture,Friday,0,2,V02-258,False
+LÍF119F,Rannsóknir í vist- og þróunarfræði,lecture,Monday,6,3,N-129,False
+JAR129F,Líkanreikningar fyrir jarðvísindi,lecture,Tuesday,0,2,N-121,False
+UAU111F,Endurnýjanleg orka: inngangur,lecture,Friday,2,3,V02-258,False
+LÍF118F,Aðferðir í sameindalíffræði,lecture,Monday,4,2,N-129,True
+JAR129F,Líkanreikningar fyrir jarðvísindi,lecture,Friday,2,3,N-166 - Tölvuver,False
+TÖV501M,Hönnun tölva,lecture,Tuesday,2,2,"V02-352, heimast.",False
+VÉL503M,Hönnun og smíði rafknúins kappakstursbíls - hluti A,lecture,Tuesday,10,2,V02-158,False
+EFN514M,Verkleg ólífræn efnafræði 3,lab,Thursday,6,5,V01-219,False
+JAR029F,Gjóskulagafræði,lecture,Tuesday,4,2,"N-264, rannsóknast.",False
+VÉL503M,Hönnun og smíði rafknúins kappakstursbíls - hluti A,lecture,Tuesday,0,3,V02-157,True
+JAR047G,Jarðsaga Íslands,lecture,Thursday,4,4,VON-Fjarkennsla 2,False
+EFN514M,Verkleg ólífræn efnafræði 3,lab,Tuesday,10,5,V01-219,True
+VÉL114F,Jarðvarmaver,lecture,Tuesday,0,2,V02-138,False
+VÉL114F,Jarðvarmaver,lecture,Tuesday,10,3,V02-138,True
+JAR047G,Jarðsaga Íslands,lecture,Thursday,4,4,N-128,False
+JAR029F,Gjóskulagafræði,lab,Tuesday,6,5,N-168 - Verkleg sérstofa,False
+EÐL527M,Stjarneðlisfræði,lecture,Thursday,0,2,V02-138,False
+UMV501M,Himnutækni,lecture,Monday,2,3,Tg-227 Heimastofa,False
+UMV501M,Himnutækni,lecture,Thursday,0,2,V02-258,False
+EÐL527M,Stjarneðlisfræði,lecture,Monday,2,2,V02-138,False
+LÍF108G,Lífheimurinn,lab,Thursday,0,3,"N-196, verkleg kennslust.",False
+VÉL120F,Jarðhitaborholur,lecture,Tuesday,6,3,"V02-262, heimast.",False
+LÍF108G,Lífheimurinn,lab,Thursday,0,3,Annað,False
+JAR513M,Orka og auðlindir jarðar,lecture,Monday,0,3,Naustið,False
+JAR513M,Orka og auðlindir jarðar,lecture,Thursday,0,3,Tg-227 Heimastofa,False
+VÉL120F,Jarðhitaborholur,lecture,Thursday,6,2,"V02-148, sérstofa VR-2",False
+LAN102G,Kortagerð og kortahönnun,lecture,Monday,9,2,N-131,True
+EÐL102M,Sérhæfð umfjöllunarefni í rafsegulfræði,lecture,Tuesday,4,2,V02-138,False
+UAU112F,Sjálfbær orkuþróun: orkuhagfræði og stefnumótun,lecture,Monday,5,4,N-121,True
+LÍF535M,Umhverfisörverufræði,lecture,Tuesday,0,2,N-129,False
+LÍF535M,Umhverfisörverufræði,lecture,Thursday,4,2,N-129,False
+LÍF535M,Umhverfisörverufræði,lecture,Tuesday,0,2,N-121,True
+LÍF535M,Umhverfisörverufræði,lecture,Tuesday,0,2,N-129,False
+FER112F,Inngangur að ferðamálafræði,tutorial,Wednesday,10,2,N-129,True
+UAU128F,Hafið og sjálfbærni,lecture,Friday,4,2,N-121,False
+EFN106G,Efnafræði I,lecture,Tuesday,8,2,HB-1,False
+EFN106G,Efnafræði I,lecture,Friday,0,2,N-132,False
+UAU128F,Hafið og sjálfbærni,lecture,Thursday,2,2,N-121,False
+EÐL102M,Sérhæfð umfjöllunarefni í rafsegulfræði,lecture,Friday,0,2,V02-155,True
+RAF506G,"Rafkerfi rafknúins kappakstursbíls, A hluti",lecture,Tuesday,10,2,V02-158,False
+EÐL102M,Sérhæfð umfjöllunarefni í rafsegulfræði,lecture,Thursday,4,2,N-121,False
+VÉL501M,Tæring,lecture,Thursday,2,3,Naustið,True
+EÐL107G,Eðlisfræði 1 R,tutorial,Wednesday,10,2,Ág-301,True
+EÐL301G,Rafeindatækni fastra efna,lab,Monday,5,4,V01-111,True
+EÐL301G,Rafeindatækni fastra efna,lab,Friday,8,4,V01-112,True
+LÍF535M,Umhverfisörverufræði,lab,Friday,6,4,"N-250, rannsóknast.",False
+LÍF533M,Örverufræði II,lab,Friday,6,4,"N-250, rannsóknast.",False
+UAU131F,Vistspor: Hugtakið og notkun þess,lecture,Monday,9,5,Fjarkennsla,True
+UAU028F,Sjálfbær landbúnaður og byggðaþróun,lecture,Thursday,0,2,"V02-148, sérstofa VR-2",True
+UAU028F,Sjálfbær landbúnaður og byggðaþróun,lecture,Friday,5,4,S-278,False
+TÖL027G,Vinnustofa fyrir nýnema í tölvunarfræði og hugbúnaðarverkfræði,lecture,Tuesday,4,2,"Gr-321, Ada sérstofa",False
+LÍF535M,Umhverfisörverufræði,lab,Friday,6,4,"N-250, rannsóknast.",False
+LÍF534M,Örverur og líftækni,lab,Friday,6,4,"N-250, rannsóknast.",False
+BYG118F,Sveiflugreining burðarvirkja,lecture,Thursday,4,2,V02-138,False
+LÍF533M,Örverufræði II,lab,Friday,6,4,"N-250, rannsóknast.",False
+JEÐ506M,Jarðeðlisfræðileg könnun A,lecture,Monday,1,1,N-128,False
+BYG118F,Sveiflugreining burðarvirkja,lecture,Tuesday,2,3,G-139,False
+LAN117F,Rannsóknir í land- og ferðamálafræði 1,lecture,Tuesday,0,2,Annað,True
+FER112F,Inngangur að ferðamálafræði,lecture,Monday,5,3,N-128,False
+JAR134F,Jarðefnafræði og yfirborð jarðar,lecture,Thursday,0,2,N-121,True
+EÐL101M,Sérhæfð umfjöllunarefni í sígildri eðlisfræði,lecture,Friday,5,1,V02-138,False
+JAR134F,Jarðefnafræði og yfirborð jarðar,lecture,Friday,5,3,N-128,True
+LÍF118F,Aðferðir í sameindalíffræði,lab,Tuesday,6,7,"N-350, rannsóknast.",False
+EÐL101M,Sérhæfð umfjöllunarefni í sígildri eðlisfræði,lecture,Thursday,2,2,"V02-148, sérstofa VR-2",False
+EÐL101M,Sérhæfð umfjöllunarefni í sígildri eðlisfræði,lecture,Tuesday,2,2,O-206,False
+EFN301G,Almenn efnafræði V,tutorial,Wednesday,2,2,O-201,True
+STÆ108G,Stærðfræði N,tutorial,Wednesday,0,2,Ág-301,True
+STÆ108G,Stærðfræði N,tutorial,Wednesday,2,2,V02-261,True
+BYG118F,Sveiflugreining burðarvirkja,lecture,Tuesday,2,3,G-139,False
+JEÐ506M,Jarðeðlisfræðileg könnun A,lecture,Tuesday,0,2,V02-157,False
